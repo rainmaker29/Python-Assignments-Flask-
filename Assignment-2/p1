@@ -1,0 +1,4 @@
+1) False : If values have special characters, new objects are   created
+2) True : If values don't have special characters, same memory location is used for same values.
+
+
